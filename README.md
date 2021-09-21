@@ -11,7 +11,7 @@ I wish I could say it was more impressive, but it's literally a crowd-sourced co
 
 ## Can I report my own spam terms?
 **YES. PLEASE!** It would do everyone a massive favor. Your options to contribute:
-1. Open a PR on GitHub and copy/paste NEW blocked terms into the [document]((/blocklist.md)
+1. Open a PR on GitHub and copy/paste NEW blocked terms into the [document](/blocklist.md) Please follow the formatting (comma between each term) so users can easily copy/paste all terms in one fellow swoop.
 2. Email support@techlore.tech with your blocked terms and we'll manually add it. Try to avoid this option if you can to make our lives easier pls :)
 
 ## Will this stop all bots?
