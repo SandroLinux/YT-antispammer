@@ -5,9 +5,14 @@ Are you fucking tired of bots changing their scams by a single digit to avoid yo
 I wish I could say it was more impressive, but it's literally a crowd-sourced collection of spam terms reported by YouTubers like yourself.
 
 ## How do I use it?
-1. Open the document with the terms
+1. [Open the document with the terms](/blocklist.md)
 2. Copy them
 3. Paste them in your YouTube blocked words
+
+## Can I report my own spam terms?
+**YES. PLEASE!** It would do everyone a massive favor. Your options to contribute:
+1. Open a PR on GitHub and copy/paste NEW blocked terms into the [document]((/blocklist.md)
+2. Email support@techlore.tech with your blocked terms and we'll manually add it. Try to avoid this option if you can to make our lives easier pls :)
 
 ## Will this stop all bots?
 No. YouTube is a bitch. This is their fault. But it'll at least stop the most common ones and it'll make other YouTubers aware of the newest ones that may impact them.
