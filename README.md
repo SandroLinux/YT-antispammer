@@ -1,4 +1,6 @@
 # YT-antispammer
+<img src="/ugh.png">
+
 Are you fucking tired of bots changing their scams by a single digit to avoid your blocked words on YouTube? Are you sick and tired of spending 10 minutes after every upload mass deleting comments? We can't fix the problem (only YouTube can), but we can help.
 
 ## What is this?
