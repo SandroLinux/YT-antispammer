@@ -7,7 +7,7 @@ I wish I could say it was more impressive, but it's literally a crowd-sourced co
 ## How do I use it?
 1. [Open the document with the terms](/blocklist.md)
 2. Copy them
-3. Paste them in your YouTube blocked words
+3. Paste them in your YouTube blocked words. View how to access this [here](https://support.google.com/youtube/answer/9483359?hl=en#zippy=%2Cblocked-words)
 
 ## Can I report my own spam terms?
 **YES. PLEASE!** It would do everyone a massive favor. Your options to contribute:
